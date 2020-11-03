@@ -22,7 +22,7 @@ export class HomeComponent {
       new Slide("assets/IMG_20191016_163438.jpg", "Barlok parti"),
       new Slide("assets/IMG_20190828_170855.jpg", "Indian sweets"),
       new Slide("assets/IMG_0873.jpg", "Mon copain... et Vqy"),
-      new Slide("assets/IMG_0873.jpg", "Tortilla burger")
+      new Slide("assets/IMG_0920.jpg", "Tortilla burger")
     ];
     this.showSlides();
   }
